@@ -1,5 +1,5 @@
 _repo: Memoirs-of-Napoleon-Bonaparte-Volume-12_3562
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -42,5 +42,6 @@ subjects:
 - !lcsh 'Private secretaries -- France -- Biography'
 - !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Contemporaries'
 - !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Relations with private secretaries'
+- GITenberg
 title: Memoirs of Napoleon Bonaparte — Volume 12
 url: http://www.gutenberg.org/ebooks/3562
